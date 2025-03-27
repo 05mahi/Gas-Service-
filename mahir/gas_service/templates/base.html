@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Gas Utility Service</title>
+</head>
+<body>
+    <nav>
+        <a href="{% url 'create_service_request' %}">Submit Request</a>
+        <a href="{% url 'service_request_list' %}">Track Requests</a>
+    </nav>
+    {% block content %}{% endblock %}
+</body>
+</html>
