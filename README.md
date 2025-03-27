@@ -72,6 +72,10 @@ Admin Panel: http://127.0.0.1:8000/admin/
 ![Screenshot 2025-03-27 214220](https://github.com/user-attachments/assets/0aac4632-f55b-4c12-bee4-4b7a7a371cce)
 
 
+![Screenshot 2025-03-27 214647](https://github.com/user-attachments/assets/bf2b1021-b296-46e6-8b51-96a6d497d184)
+
+
+
 
 
 
